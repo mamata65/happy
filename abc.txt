@@ -1,2 +1,2 @@
 sudo chef generate cookbook home
-jenkins ALL=(ALL) NOPASSWD: ALL
+
