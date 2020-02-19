@@ -1,0 +1,1 @@
+sudo chef generate cookbook home
