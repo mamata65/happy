@@ -1,0 +1,15 @@
+pipeline {
+   agent any
+    stages {
+         stage{'one'} {
+                 steps {
+                         echo ' Hi , this is Mamata
+}
+}
+    stage {'two'} {
+       steps {
+               input{'Do you want to Proceed'}
+}
+}
+}
+}
