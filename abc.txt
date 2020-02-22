@@ -1,2 +1,2 @@
-sudo chef generate cookbook home
+chef generate cookbook home
 
